@@ -1,0 +1,4 @@
+# Ignorando imagenes
+*.png
+*.jpg
+*.raw
